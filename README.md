@@ -1,4 +1,4 @@
-Plotly Dumbbell -- Wings of Hope
+### Plotly Dumbbell -- Wings of Hope
 
 https://sashadata.github.io/example.project/
 
