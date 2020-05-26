@@ -1,7 +1,6 @@
-# example.project
+Plotly Dumbbell -- Wings of Hope
 
-link to plotly dumbbell: https://sashadata.github.io/example.project/
+https://sashadata.github.io/example.project/
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~apugachev/5.embed"></iframe>
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~apugachev/7.embed"></iframe>
 
